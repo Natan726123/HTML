@@ -1,0 +1,37 @@
+ul{
+	list-style-type: none;
+	padding-bottom: 20px;
+	margin: 20px;
+	margin-bottom: 30px;
+	padding-left: 80px;
+
+}
+#insta{
+	list-style-image: url(Imagens/insta.png);
+	
+}
+#Twitter{
+	list-style-image: url(Imagens/Twitter.png);
+}
+#Youtube{
+	list-style-image: url(Imagens/Youtube.png);
+}
+
+#geral{
+	background-image: url(Imagens/background.png) ;
+	background-repeat: no-repeat;
+	background-position: left;
+	background-size: 400px;
+	padding: 20;
+	font-family: cursive;
+
+	
+}
+
+#nome{
+	padding-top: 20px;
+	font-size: 25px;
+	font-weight: bold;
+	font-family: cursive;
+	padding-right: 80px;
+}
